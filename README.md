@@ -175,4 +175,4 @@ All outputs are saved inside the **results/** folder.
 
 ## Author
 
-**Yasasri Amudalapalli**
+Yasasri Amudalapalli
