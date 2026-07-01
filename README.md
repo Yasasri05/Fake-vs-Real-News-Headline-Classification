@@ -163,7 +163,7 @@ All outputs are saved inside the **results/** folder.
 
 ---
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 - Add a web interface using Flask or Streamlit.
 - Support full news articles instead of only headlines.
