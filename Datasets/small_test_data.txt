@@ -1,0 +1,9 @@
+title,label
+"Government announces budget increase for healthcare",REAL
+"NASA discovers signs of life on Jupiter's moon",REAL
+"Actor claims he is an immortal time traveler from 1500s",FAKE
+"Aliens demand earthlings to surrender or face consequences",FAKE
+"New AI system helps detect diseases early",REAL
+"Scientists revive dinosaurs using genetic engineering",FAKE
+"Railway introduces high-speed trains between major cities",REAL
+"Doctors say eating pizza everyday increases intelligence",FAKE

@@ -1,0 +1,157 @@
+title,label
+"Government announces major tax reform for small businesses",REAL
+"Scientists discover plant that can generate unlimited electricity",FAKE
+"New AI startup receives record funding to build humanoid robots",REAL
+"Man claims he can teleport after drinking special juice",FAKE
+"Stock markets rise after positive economic forecast",REAL
+"Aliens spotted shopping in local supermarket, eyewitness reports",FAKE
+"Education ministry launches national coding program for students",REAL
+"Time traveler reveals details of 2050 world war",FAKE
+"Doctors report breakthrough in diabetes treatment",REAL
+"Dog becomes CEO of tech company after outperforming humans",FAKE
+"Government proposes new policy for clean energy adoption",REAL
+"Scientists confirm humans can breathe underwater with new drug",FAKE
+"University introduces AI-powered exam monitoring system",REAL
+"Cat solves complex mathematical equations, stuns scientists",FAKE
+"Prime Minister addresses global climate summit",REAL
+"Teen discovers invisibility potion using household items",FAKE
+"Healthcare system receives major technological upgrade",REAL
+"Scientists clone dinosaur embryo in secret lab",FAKE
+"Public transportation improved across major cities",REAL
+"Man claims earth is shaped like a donut",FAKE
+"New cancer treatment shows promising results",REAL
+"Government plans to build underwater cities",FAKE
+"Local startup develops app to reduce food waste",REAL
+"Researchers find evidence of ancient civilization on Mars",FAKE
+"New education policy focuses on skill development",REAL
+"Scientists create robot capable of reading human emotions",REAL
+"Time machine prototype tested successfully",FAKE
+"Railway system introduces AI-based scheduling",REAL
+"Aliens steal earth's magnetic field, scientist claims",FAKE
+"Government announces new employment scheme",REAL
+"Scientists create edible phone screens",FAKE
+"New airport terminal improves passenger capacity",REAL
+"Researchers discover cure for aging",FAKE
+"Banking system upgraded with blockchain security",REAL
+"Man says he talked to ghosts using smartphone",FAKE
+"City installs solar-powered street lights",REAL
+"Scientists invent anti-gravity shoes",FAKE
+"Government approves funding for space research",REAL
+"Child claims to have superhuman strength",FAKE
+"New digital payment system launched nationwide",REAL
+"Scientists find portal to dinosaur era",FAKE
+"Sports ministry builds world-class training centers",REAL
+"Robot becomes self-aware and escapes laboratory",FAKE
+"New metro line reduces travel time significantly",REAL
+"Man claims he has lived for 300 years",FAKE
+"Government improves disaster management systems",REAL
+"Experiment proves humans can control weather",FAKE
+"City expands public parks and recreation areas",REAL
+"Scientist says the moon is made of cheese",FAKE
+"Government announces scholarships for higher education",REAL
+"Scientists discover talking trees in the Amazon",FAKE
+"New technology helps recycle plastic efficiently",REAL
+"Time travel conspiracy exposed by whistleblower",FAKE
+"Government invests in electric vehicle infrastructure",REAL
+"Scientists report that bananas can power cars",FAKE
+"University offers free online courses to students",REAL
+"Man claims to be from another universe",FAKE
+"Scientists build robot that can cook 50 dishes automatically",REAL
+"Ghost seen working in office night shift, employees terrified",FAKE
+"Government launches scheme to support agriculture startups",REAL
+"Scientists say humans may soon live underwater permanently",FAKE
+"New electric car charges fully in just 10 minutes",REAL
+"Time traveler warns of alien invasion in 2080",FAKE
+"Healthcare system introduces remote robotic surgeries",REAL
+"Scientists detect radio signal from parallel universe",FAKE
+"City to build new hospital with advanced facilities",REAL
+"Researchers claim they found a map to Atlantis",FAKE
+"Government reduces taxes to support small businesses",REAL
+"People report seeing giant humanoid creatures in mountains",FAKE
+"New education bill focuses on vocational training",REAL
+"Scientists create pill that lets humans speak animal language",FAKE
+"Government builds new smart city in five states",REAL
+"Researchers find evidence of dragons once living on earth",FAKE
+"Universities adopt AI-based learning platforms",REAL
+"Scientists create robot that can fall in love",FAKE
+"New scheme to support women entrepreneurs launched",REAL
+"Plant found that can cure all diseases instantly",FAKE
+"Government expands affordable housing program",REAL
+"Scientists develop machine that reads people's dreams",FAKE
+"Metro rail project reduces traffic congestion",REAL
+"Scientists claim dinosaurs still live in remote jungle",FAKE
+"New portal launched to connect job seekers with companies",REAL
+"Researchers create transparent solar panels",REAL
+"Scientists say aliens helped build ancient pyramids",FAKE
+"New cyber security system stops major cyber attack",REAL
+"Scientists create device to make humans invisible",FAKE
+"Government promotes renewable energy in rural areas",REAL
+"Researchers believe time travel is theoretically possible",REAL
+"Scientists claim fish developed human-like language",FAKE
+"New national sports academy launched",REAL
+"Scientists report that moon is shrinking rapidly",FAKE
+"Government increases funding for space missions",REAL
+"Scientists discover giant crystal under Antarctica",FAKE
+"New system introduced to improve public transportation",REAL
+"Researchers say plants can talk to each other",REAL
+"Scientists clone ancient mammoth species",FAKE
+"Government builds new roads in remote villages",REAL
+"Scientists recreate extinct species using fossils",FAKE
+"New budget allocated for healthcare modernization",REAL
+"Researchers find evidence of alien base on Mars",FAKE
+"Government announces cyber security training for students",REAL
+"Scientists build robot that predicts earthquakes",REAL
+"Man claims to have visited another galaxy",FAKE
+"New scheme to provide internet to rural areas",REAL
+"Scientists create AI that controls weather",FAKE
+"Government opens skill development centers nationwide",REAL
+"Researchers discover bacteria that eats plastic",REAL
+"Scientists believe giant robots lived in ancient times",FAKE
+"Government introduces digital payment solutions",REAL
+"Time travel device tested secretly, source claims",FAKE
+"New metro system improves connectivity between cities",REAL
+"Researchers create machine that reads animal thoughts",FAKE
+"Government increases budget for education sector",REAL
+"Scientists detect strange signals from deep space",REAL
+"Man claims sun is a hologram controlled by aliens",FAKE
+"New system launched to track infectious diseases",REAL
+"Scientists create virus that makes humans immortal",FAKE
+"Government launches national clean energy mission",REAL
+"Man says his cat can teleport through walls",FAKE
+"New trains reduce pollution and fuel consumption",REAL
+"Scientists find underwater cave with ancient writings",REAL
+"Researchers say earth might collide with another planet",FAKE
+"Government promotes electric vehicles through subsidies",REAL
+"Scientists clone a human successfully in secret lab",FAKE
+"New policy supports environmental conservation",REAL
+"Scientists discover animals living inside volcano",FAKE
+"Government invests in advanced research labs",REAL
+"Man claims he can control lightning with his mind",FAKE
+"New airport becomes busiest in the country",REAL
+"Researchers measure brain activity during dreams",REAL
+"Scientists say humans may evolve wings in future",FAKE
+"Government provides housing for low-income families",REAL
+"Scientists believe aliens live deep under earth",FAKE
+"New electric buses launched in major cities",REAL
+"Researchers invent self-healing concrete",REAL
+"Scientists claim the earth is hollow",FAKE
+"Government expands disaster relief program",REAL
+"Robot built to teach children mathematics",REAL
+"Scientists create potion to reverse aging",FAKE
+"Government aims to reduce carbon footprint by 2030",REAL
+"Researchers test solar-powered drones",REAL
+"Scientists report portal to another dimension has opened",FAKE
+"Government introduces free medical checkups",REAL
+"Scientists create animal-human hybrid species",FAKE
+"New bridge project improves transportation",REAL
+"Researchers create glasses that enhance memory",REAL
+"Scientists claim aliens invented Wi-Fi",FAKE
+"Government launches smart farming initiative",REAL
+"Scientists detect giant creature under Arctic ice",FAKE
+"New system speeds up emergency services",REAL
+"Researchers create AI that composes music",REAL
+"Scientists say ghosts are made of plasma energy",FAKE
+"Government reduces fuel prices nationwide",REAL
+"Researchers develop biodegradable batteries",REAL
+"Scientists say cats are planning world domination",FAKE
+"Government expands sanitation projects",REAL

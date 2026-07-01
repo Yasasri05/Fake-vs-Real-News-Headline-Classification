@@ -1,0 +1,17 @@
+pandas==2.2.2
+
+# Used for reading CSV dataset, data cleaning, and preprocessing.
+
+numpy==1.26.4
+
+# Provides numerical operations. Needed for confusion matrix, arrays, etc.
+
+scikit-learn==1.5.1
+
+# Main machine learning library.
+# Provides: TfidfVectorizer, Train/Test Split, Decision Tree, Naive Bayes,
+# Classification Report, Accuracy Score, and Confusion Matrix.
+
+matplotlib==3.8.4
+
+# Used to plot confusion matrix heatmaps and visual graphs.
